@@ -3,7 +3,7 @@
 This project explores the relationship between Hyperliquid trader performance and Bitcoin market sentiment (Fear & Greed Index).
 
 ## Files included
-- `analyze_trader_sentiment.py` — main analysis script (auto-detects column names, aggregates daily, merges with Fear & Greed).
+- `analyze_trader_sentiment.ipynb` — main analysis script (auto-detects column names, aggregates daily, merges with Fear & Greed).
 - `merged_daily_summary.csv` — generated daily aggregates merged with Fear & Greed (output).
 - `per_account_summary.csv` — per-account summary (if `account` column present).
 - `plot_sentiment_vs_pnl.png` — scatter: sentiment vs avg closed PnL (if generated).

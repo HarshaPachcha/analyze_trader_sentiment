@@ -22,4 +22,4 @@ This project explores the relationship between Hyperliquid trader performance an
 1. Put `historical_data.csv` and `fear_greed_index.csv` in the same folder as the script.
 2. Run:
 ```bash
-python analyze_trader_sentiment.ipynb
+Jupyter Notebook analyze_trader_sentiment.ipynb
